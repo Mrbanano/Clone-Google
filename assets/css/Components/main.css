@@ -1,0 +1,8 @@
+@import "./main/logo.css";
+@import "./main/search.css";
+@import "./main/btn.css";
+
+.main-content {
+  margin-block-start: 150px;
+  text-align: center;
+}
