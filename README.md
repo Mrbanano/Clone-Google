@@ -47,7 +47,7 @@
 
 <div align="center" >
 
-<img width="400px" src="https://i.postimg.cc/TP3d8kr6/estadistica.jpg" />
+<img width="600px" src="https://i.postimg.cc/TP3d8kr6/estadistica.jpg" />
 
 </div>
 <br>
