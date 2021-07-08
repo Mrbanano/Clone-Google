@@ -7,6 +7,8 @@
 
 </div>
 
+[![wakatime](https://wakatime.com/badge/github/Mrbanano/Clone-Google.svg)](https://wakatime.com/badge/github/Mrbanano/Clone-Google)
+
 [Ver Proyecto](https://mrbanano.github.io/Clone-Google/index.html)
 
 ## Somos expertos en construcción de negocios digitales.
@@ -40,6 +42,14 @@
 <br>
 <br>
 <br>
+
+## Stats
+
+<div align="center" >
+
+<img width="400px" src="https://i.postimg.cc/TP3d8kr6/estadistica.jpg" />
+
+</div>
 <br>
 <br>
 
@@ -48,3 +58,5 @@
 Diseñado con ♥️ por [Alvaro Castillo](https://www.linkedin.com/in/alvaro-castillo-c/)
 
 <div>
+
+
