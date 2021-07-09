@@ -11,9 +11,7 @@
 
 [Ver Proyecto](https://mrbanano.github.io/Clone-Google/index.html)
 
-## Somos expertos en construcción de negocios digitales.
 
-#### Powered by Service
 
 <br>
 
